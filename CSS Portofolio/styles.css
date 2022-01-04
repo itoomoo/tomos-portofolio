@@ -1,3 +1,51 @@
+
+html,
+body{
+    margin:0%;
+    padding: 0%;
+    height: 100%;
+}
+
+
 body{
     font-family: 'Teko', sans-serif;
+   
+}
+.H1Qus{
+    color: orangered;
+}
+
+.credentials{
+    display: flex;
+}
+.gameplay{
+    display: flex;
+}
+.first-sec{
+    width: 50%;
+    margin-left: 5%;
+}
+
+.first-sec img{
+    height: 35%;
+    
+}
+
+.game-stack{
+ 
+    display: flex;
+   
+    
+   
+}
+.web-game{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px tomato;
+}
+footer{
+    text-align: center;
 }
